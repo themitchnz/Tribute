@@ -110,5 +110,19 @@
     "ATK": 0,
     "DEF": 2,
     "ONETIME": 0
+  },
+  {
+    "ID": 8,
+    "NAME": "World Map",
+    "ACTION": "",
+    "ARMOUR": 0,
+    "WEAPON": 0,
+    "SELL": 1,
+    "USE": "Study Map",
+    "VALUE": 20,
+    "DESCRIPT": "Map of the known worlds",
+    "ATK": 0,
+    "DEF": 0,
+    "ONETIME": 0
   }
 ]
