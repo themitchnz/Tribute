@@ -124,5 +124,19 @@
     "ATK": 0,
     "DEF": 0,
     "ONETIME": 0
+  },
+  {
+    "ID": 9,
+    "NAME": "Short Sword",
+    "ACTION": "Your sword swishes",
+    "ARMOUR": 0,
+    "WEAPON": 1,
+    "SELL": 1,
+    "USE": "",
+    "VALUE": 50,
+    "DESCRIPT": "Orcs hate 'em! (+10)",
+    "ATK": 10,
+    "DEF": 0,
+    "ONETIME": 0
   }
 ]
