@@ -11,7 +11,8 @@
     "DESCRIPT": "They look plump and juicy",
     "ATK": 1,
     "DEF": 0,
-    "ONETIME": 1
+    "ONETIME": 1,
+    "OWNED" : 0
   },
   {
     "ID": 1,
@@ -25,7 +26,8 @@
     "DESCRIPT": "A large jug, still fresh",
     "ATK": 0,
     "DEF": 0,
-    "ONETIME": 1
+    "ONETIME": 1,
+    "OWNED" : 0
   },
   {
     "ID": 2,
@@ -39,7 +41,8 @@
     "DESCRIPT": "Very sharp (+5)",
     "ATK": 5,
     "DEF": 0,
-    "ONETIME": 0
+    "ONETIME": 0,
+    "OWNED" : 0
   },
   {
     "ID": 3,
@@ -53,7 +56,8 @@
     "DESCRIPT": "10 Hitpoints",
     "ATK": 0,
     "DEF": 0,
-    "ONETIME": 1
+    "ONETIME": 1,
+    "OWNED" : 0
   },
   {
     "ID": 4,
@@ -67,7 +71,8 @@
     "DESCRIPT": "Looks kinda used (+3)",
     "ATK": 3,
     "DEF": 0,
-    "ONETIME": 0
+    "ONETIME": 0,
+    "OWNED" : 0
   },
   {
     "ID": 5,
@@ -81,7 +86,8 @@
     "DESCRIPT": "Cracked and leathery (+0)",
     "ATK": 0,
     "DEF": 0,
-    "ONETIME": 0
+    "ONETIME": 0,
+    "OWNED" : 0
   },
   {
     "ID": 6,
@@ -95,7 +101,8 @@
     "DESCRIPT": "Mmmm, Mmmm good!",
     "ATK": 0,
     "DEF": 0,
-    "ONETIME": 0
+    "ONETIME": 0,
+    "OWNED" : 0
   },
   {
     "ID": 7,
@@ -109,7 +116,8 @@
     "DESCRIPT": "Beautiful craftmanship! (+2)",
     "ATK": 0,
     "DEF": 2,
-    "ONETIME": 0
+    "ONETIME": 0,
+    "OWNED" : 0
   },
   {
     "ID": 8,
@@ -123,7 +131,8 @@
     "DESCRIPT": "Map of the known worlds",
     "ATK": 0,
     "DEF": 0,
-    "ONETIME": 0
+    "ONETIME": 0,
+    "OWNED" : 0
   },
   {
     "ID": 9,
@@ -137,6 +146,7 @@
     "DESCRIPT": "Orcs hate 'em! (+10)",
     "ATK": 10,
     "DEF": 0,
-    "ONETIME": 0
+    "ONETIME": 0,
+    "OWNED" : 0
   }
 ]
