@@ -148,5 +148,20 @@
     "DEF": 0,
     "ONETIME": 0,
     "OWNED" : 0
+  },
+  {
+    "ID": 10,
+    "NAME": "Gloworm",
+    "ACTION": "",
+    "ARMOUR": 0,
+    "WEAPON": 0,
+    "SELL": 1,
+    "USE": "Pop it in your mouth",
+    "VALUE": 50,
+    "DESCRIPT": "Squiggly and glowing!",
+    "ATK": 0,
+    "DEF": 0,
+    "ONETIME": 0,
+    "OWNED" : 0
   }
 ]
