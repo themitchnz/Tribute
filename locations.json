@@ -1,0 +1,13 @@
+{
+  "mothers-house" : {
+    "ID" : 0,
+    "LOCATION_TEXT" : "MOTHER'S HOME",
+    "BATTLE" : false,
+    "MONSTER_INDEX_START": 0,
+    "MONSTER_INDEX_END": 5,
+    "WEATHER" : "inside",
+    "MAP_X" : 0,
+    "MAP_Y" : 0,
+    "PLAYER_SPEED" : 60
+  }
+}
