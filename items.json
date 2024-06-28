@@ -178,5 +178,20 @@
     "DEF": 0,
     "ONETIME": 0,
     "OWNED" : 0
+  },
+  {
+    "ID": 11,
+    "NAME": "Chicken Egg",
+    "ACTION": "",
+    "ARMOUR": 0,
+    "WEAPON": 0,
+    "SELL": 1,
+    "USE": "",
+    "VALUE": 10,
+    "DESCRIPT": "Possibly came from a chicken?",
+    "ATK": 0,
+    "DEF": 0,
+    "ONETIME": 0,
+    "OWNED" : 0
   }
 ]
