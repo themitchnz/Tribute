@@ -126,5 +126,21 @@
     "LOSE": "",
     "RUN": "",
     "LOCATIONS": ""
+  },
+  {
+    "ID": 10,
+    "NAME": "Neb Stringly",
+    "INTRO": "You lunge at Neb, your weapon ready!",
+    "KILL": "You cleanly cut off one of Neb's hands!",
+    "ATK": ["punches you in the face","low blows you","socks you in the jaw"],
+    "DMG": [10,15,7],
+    "DEF": 5,
+    "GOLD": 50,
+    "EXP": 20,
+    "HP": 25,
+    "WIN": "BEATNEB",
+    "LOSE": "",
+    "RUN": "",
+    "LOCATIONS": ""
   }
 ]
