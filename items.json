@@ -163,5 +163,20 @@
     "DEF": 0,
     "ONETIME": 0,
     "OWNED" : 0
+  },
+  {
+    "ID": 11,
+    "NAME": "Parrot",
+    "ACTION": "",
+    "ARMOUR": 0,
+    "WEAPON": 0,
+    "SELL": 0,
+    "USE": "Talk to the bird",
+    "VALUE": 0,
+    "DESCRIPT": "A scruffy looking bird",
+    "ATK": 0,
+    "DEF": 0,
+    "ONETIME": 0,
+    "OWNED" : 0
   }
 ]
