@@ -180,7 +180,7 @@
     "OWNED" : 0
   },
   {
-    "ID": 11,
+    "ID": 12,
     "NAME": "Chicken Egg",
     "ACTION": "",
     "ARMOUR": 0,
@@ -192,6 +192,6 @@
     "ATK": 0,
     "DEF": 0,
     "ONETIME": 0,
-    "OWNED" : 0
+    "OWNED" : 1
   }
 ]
