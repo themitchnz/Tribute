@@ -192,6 +192,6 @@
     "ATK": 0,
     "DEF": 0,
     "ONETIME": 0,
-    "OWNED" : 1
+    "OWNED" : 0
   }
 ]
