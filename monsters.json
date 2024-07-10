@@ -71,7 +71,7 @@
     "LOSE": "DIE",
     "RUN": "NONE",
     "SFX_INTRO": "hh_intro.aac",
-    "SFX_HIT": "hh_hit.aac",
+    "SFX_HIT": "small_animal_hit.aac",
     "SFX_DEATH": "hh_death.aac",
     "LOCATIONS": ""
   },
