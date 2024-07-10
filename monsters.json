@@ -13,6 +13,9 @@
     "WIN": "NONE",
     "LOSE": "DIE",
     "RUN": "NONE",
+    "SFX_INTRO": "boar_intro.aac",
+    "SFX_HIT": "boar_hit.aac",
+    "SFX_DEATH": "boar_death.aac",
     "LOCATIONS": ""
   },
   {
@@ -29,6 +32,9 @@
     "WIN": "NONE",
     "LOSE": "DIE",
     "RUN": "NONE",
+    "SFX_INTRO": "dog_intro.aac",
+    "SFX_HIT": "dog_hit.aac",
+    "SFX_DEATH": "dog_death.aac",
     "LOCATIONS": ""
   },
   {
@@ -45,6 +51,9 @@
     "WIN": "NONE",
     "LOSE": "DIE",
     "RUN": "NONE",
+    "SFX_INTRO": "bear_intro.aac",
+    "SFX_HIT": "bear_hit.aac",
+    "SFX_DEATH": "bear_death.aac",
     "LOCATIONS": ""
   },
   {
@@ -61,6 +70,9 @@
     "WIN": "NONE",
     "LOSE": "DIE",
     "RUN": "NONE",
+    "SFX_INTRO": "hh_intro.aac",
+    "SFX_HIT": "hh_hit.aac",
+    "SFX_DEATH": "hh_death.aac",
     "LOCATIONS": ""
   },
   {
@@ -77,6 +89,9 @@
     "WIN": "NONE",
     "LOSE": "DIE",
     "RUN": "NONE",
+    "SFX_INTRO": "joe_intro.aac",
+    "SFX_HIT": "joe_hit.aac",
+    "SFX_DEATH": "joe_death.aac",
     "LOCATIONS": ""
   },
   {
@@ -93,6 +108,9 @@
     "WIN": "NONE",
     "LOSE": "DIE",
     "RUN": "NONE",
+    "SFX_INTRO": "cat_intro.aac",
+    "SFX_HIT": "cat_hit.aac",
+    "SFX_DEATH": "cat_death.aac",
     "LOCATIONS": ""
   },
   {
@@ -109,6 +127,9 @@
     "WIN": "GETEGG",
     "LOSE": "DIE",
     "RUN": "NONE",
+    "SFX_INTRO": "hen_intro.aac",
+    "SFX_HIT": "hen_hit.aac",
+    "SFX_DEATH": "hen_death.aac",
     "LOCATIONS": ""
   },
   {
@@ -125,6 +146,9 @@
     "WIN": "",
     "LOSE": "",
     "RUN": "",
+    "SFX_INTRO": "bat_intro.aac",
+    "SFX_HIT": "bat_hit.aac",
+    "SFX_DEATH": "bat_death.aac",
     "LOCATIONS": ""
   },
   {
@@ -141,6 +165,9 @@
     "WIN": "BEATNEB",
     "LOSE": "",
     "RUN": "",
+    "SFX_INTRO": "neb_intro.aac",
+    "SFX_HIT": "neb_hit.aac",
+    "SFX_DEATH": "neb_death.aac",
     "LOCATIONS": ""
   }
 ]
