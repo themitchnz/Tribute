@@ -171,7 +171,7 @@
     "ARMOUR": 0,
     "WEAPON": 0,
     "SELL": 0,
-    "USE": "Talk to the bird",
+    "USE": "",
     "VALUE": 0,
     "DESCRIPT": "A scruffy looking bird",
     "ATK": 0,
